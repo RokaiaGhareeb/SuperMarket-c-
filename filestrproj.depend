@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1525350161 source:f:\acmscu\filestrproj\main.cpp
+	<iostream>
+	<fstream>
+
